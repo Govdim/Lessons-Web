@@ -1,4 +1,4 @@
-let age = prompt("Укажите возраст");
+let age = prompt("Укажите возраст", "0");
 
 let ageGroup;
 if(age <= 1){
